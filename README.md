@@ -25,7 +25,7 @@ Unlike traditional LLMs, this system uses **Retrieval-Augmented Generation (RAG)
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```mermaid
 flowchart TD
